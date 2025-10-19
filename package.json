@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@material-design-icons/font": "^0.14.15",
+    "@material-design-icons/svg": "^0.14.15",
+    "@material-icons/font": "^1.0.36",
+    "@mui/icons-material": "^7.3.4",
+    "@tailwindcss/vite": "^4.1.14",
+    "alpinejs": "^3.15.0",
+    "material-icons": "^1.13.14",
+    "material-symbols": "^0.38.0",
+    "tailwindcss": "^4.1.14"
+  }
+}
