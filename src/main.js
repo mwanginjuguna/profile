@@ -118,50 +118,50 @@ document.addEventListener('alpine:init', () => {
     blogs: [
       {
         id: 'blog001',
-        title: 'Building Scalable Business Applications: Lessons from DukaPro',
-        excerpt: 'Discover how we built a comprehensive business management platform that handles thousands of transactions daily while maintaining lightning-fast performance.',
-        url: '#',
-        featuredImageUrl: '/profile/dukatools-pos-stock-system.jpg',
-        readTime: '5 min read'
+        title: 'How to Setup Laravel on Ubuntu 20.02 - Step-by-Step Guide using Google Cloud Compute Engine VM',
+        excerpt: 'The following Guide will help you set up your Laravel application on Ubuntu 20.02 Virtual Machine (VM) instance, Apache server, using PHP 8.2, and MySQL (LAMP Stack)',
+        url: 'https://mwanginjuguna.github.io/blog/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm',
+        featuredImageUrl: 'https://github.com/mwanginjuguna/public-image-assets/blob/main/blog/Installing-Laravel-LAMP-Stack-on-Ubuntu-20_04.png?raw=true',
+        readTime: '7 min read'
       },
       {
         id: 'blog002',
-        title: 'The Future of Fitness Tech: Creating Personalized Digital Experiences',
-        excerpt: 'How modern fitness platforms are leveraging AI and data analytics to deliver truly personalized workout and nutrition plans for maximum client results.',
-        url: '#',
-        featuredImageUrl: '/profile/fitness-trainer-website-cloud-system.jpg',
+        title: 'Top 4 Tools to Set up the local environment for Laravel development',
+        excerpt: 'A comprehensive overview of the essential tools and software needed to create a local development environment for Laravel applications.',
+        url: 'https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup',
+        featuredImageUrl: 'https://github.com/mwanginjuguna/public-image-assets/blob/main/blog/laravel-local-development-tools.png?raw=true',
         readTime: '4 min read'
       },
       {
         id: 'blog003',
-        title: 'E-commerce Conversion Optimization: Turning Browsers into Buyers',
-        excerpt: 'Proven strategies we implemented to reduce cart abandonment by 40% and increase average order value for premium artisanal products.',
-        url: '#',
+        title: 'Think Like a Database - To Write Better SQL Queries',
+        excerpt: 'What happens when we run the SQL statement? How does the database process the statement to know which results to give? Understanding how MYSQL breaks down the statement and executes it to get the results is very important.',
+        url: 'https://mwanginjuguna.github.io/blog/computing/think-like-a-database',
         featuredImageUrl: '/profile/dukatools-manage-shops-stock-sales-system.jpg',
-        readTime: '6 min read'
-      },
-      {
-        id: 'blog004',
-        title: 'Modern Debt Recovery: Balancing Technology with Compassion',
-        excerpt: 'How digital platforms are transforming debt collection through automation, transparency, and debtor-friendly payment experiences.',
-        url: '#',
-        featuredImageUrl: '/profile/debt-recovery-company-website.jpg',
-        readTime: '5 min read'
-      },
-      {
-        id: 'blog005',
-        title: 'Streamlining Content Operations: From Chaos to Consistent Delivery',
-        excerpt: 'Case study on how we automated the entire content creation workflow, reducing administrative overhead by 70% while improving quality.',
-        url: '#',
-        featuredImageUrl: '/profile/order-management-system.jpg',
         readTime: '4 min read'
       },
       {
+        id: 'blog004',
+        title: 'Growing Plants 101 - Understanding the Basic Requirements, Processes, and Outcomes of How Plants Grow',
+        excerpt: 'Plants make their own food. They manufacture food through the process of photosynthesis, which means “to put together with light.”',
+        url: 'https://mwanginjuguna.github.io/blog/agri-business/basics-of-how-plants-grow',
+        featuredImageUrl: 'https://github.com/mwanginjuguna/public-image-assets/blob/main/blog/how-plants-grow.png?raw=true',
+        readTime: '8 min read'
+      },
+      {
+        id: 'blog005',
+        title: 'Debugging and Testing in Software Development: An Introductory overview',
+        excerpt: 'An overview of the importance of debugging and testing in the software development lifecycle.',
+        url: 'https://mwanginjuguna.github.io/blog/computing/testing-in-software-development',
+        featuredImageUrl: 'https://github.com/mwanginjuguna/public-image-assets/raw/main/blog/code-bug-feature.webp',
+        readTime: '6 min read'
+      },
+      {
         id: 'blog006',
-        title: 'Web Performance Optimization: Why Every Millisecond Matters',
-        excerpt: 'Technical deep dive into the performance optimization techniques that helped our clients achieve 95+ Google PageSpeed scores.',
-        url: '#',
-        featuredImageUrl: '/profile/dukatools-kenya-web-development-it-company-website.jpg',
+        title: 'The Basics of BASH Scripting: Bourne Again SHell',
+        excerpt: 'Here is a list of commands that are commonly used in running bash scripts. The commands are ordered from Basic to Advanced.',
+        url: 'https://mwanginjuguna.github.io/blog/computing/introduction-to-bash-scripting',
+        featuredImageUrl: 'https://github.com/mwanginjuguna/public-image-assets/blob/main/blog/bash-scripting.png?raw=true',
         readTime: '7 min read'
       }
     ],
