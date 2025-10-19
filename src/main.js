@@ -25,7 +25,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'Dukatools is an All-in-One Business Management Platform',
         tagline: 'From Sales to Profits - All Shop Records in One Place',
         summary: 'A comprehensive business operating system that handles inventory, sales tracking, expense management, and profitability analysis. Built specifically for SMEs to eliminate operational chaos and drive data-informed growth decisions.',
-        image: '/dukatools-pos-stock-system.jpg',
+        image: '/profile/dukatools-pos-stock-system.jpg',
         features: [
           'Real-time dashboard showing daily sales, profit margins, and inventory levels at a glance',
           'Automated low-stock alerts that prevent lost sales from inventory shortages',
@@ -41,7 +41,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'Trainer Website is a Fitness Business Growth Platform',
         tagline: 'Transform Your Training Business Into a Scalable Empire',
         summary: 'A complete digital ecosystem for fitness professionals to manage clients, deliver personalized programs, and scale their training business beyond one-on-one sessions.',
-        image: '/fitness-trainer-website-cloud-system.jpg',
+        image: '/profile/fitness-trainer-website-cloud-system.jpg',
         features: [
           'Custom-branded client portals with personalized workout and nutrition plans',
           'Automated progress tracking with visual analytics that show client transformation',
@@ -57,7 +57,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'E-commerce marketplace platform for Premium online shopping Experience',
         tagline: 'Where Handcrafted Quality Meets Digital Excellence',
         summary: 'A visually stunning e-commerce platform designed for premium artisanal products, featuring immersive storytelling and frictionless shopping experiences that convert browsers into loyal customers.',
-        image: '/dukatools-manage-shops-stock-sales-system.jpg',
+        image: '/profile/dukatools-manage-shops-stock-sales-system.jpg',
         features: [
           'Cinematic product galleries with zoom functionality and lifestyle photography',
           'Streamlined 3-step checkout process that reduces cart abandonment by 40%',
@@ -72,7 +72,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'Debt Recovery Company Website for Modern Debt Collection Platform',
         tagline: 'Resolving Debts with Technology and Transparency',
         summary: 'A professional, secure platform that transforms traditional debt recovery through digital efficiency, compliance automation, and debtor-friendly payment experiences.',
-        image: '/debt-recovery-company-website.jpg',
+        image: '/profile/debt-recovery-company-website.jpg',
         features: [
           'Professional design that builds immediate trust and credibility with clients',
           'Secure client portal for real-time case tracking and document management',
@@ -87,7 +87,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'Orders system app to automate orders, payments, invoices, and notification processing for a Writing Service',
         tagline: 'Streamlining Content Creation from Brief to Delivery',
         summary: 'An end-to-end order management platform that automates workflow for writing services, eliminating administrative overhead while ensuring quality and timeliness.',
-        image: '/order-management-system.jpg',
+        image: '/profile/order-management-system.jpg',
         features: [
           'Smart order intake system that captures all client requirements upfront',
           'Automated writer matching based on expertise, availability, and performance',
@@ -103,7 +103,7 @@ document.addEventListener('alpine:init', () => {
         headline: 'Web & IT Solutions Company Website To Showcase Services and Generate Leads',
         tagline: 'A Technology Partner for Digital Transformation',
         summary: 'A dynamic corporate website that demonstrates technical expertise while generating qualified leads through compelling case studies and clear service offerings.',
-        image: '/dukatools-kenya-web-development-it-company-website.jpg',
+        image: '/profile/dukatools-kenya-web-development-it-company-website.jpg',
         features: [
           'Modern, tech-forward design that immediately establishes industry authority',
           'Interactive project portfolio with detailed, results-focused case studies',
@@ -121,7 +121,7 @@ document.addEventListener('alpine:init', () => {
         title: 'Building Scalable Business Applications: Lessons from DukaPro',
         excerpt: 'Discover how we built a comprehensive business management platform that handles thousands of transactions daily while maintaining lightning-fast performance.',
         url: '#',
-        featuredImageUrl: '/dukatools-pos-stock-system.jpg',
+        featuredImageUrl: '/profile/dukatools-pos-stock-system.jpg',
         readTime: '5 min read'
       },
       {
@@ -129,7 +129,7 @@ document.addEventListener('alpine:init', () => {
         title: 'The Future of Fitness Tech: Creating Personalized Digital Experiences',
         excerpt: 'How modern fitness platforms are leveraging AI and data analytics to deliver truly personalized workout and nutrition plans for maximum client results.',
         url: '#',
-        featuredImageUrl: '/fitness-trainer-website-cloud-system.jpg',
+        featuredImageUrl: '/profile/fitness-trainer-website-cloud-system.jpg',
         readTime: '4 min read'
       },
       {
@@ -137,7 +137,7 @@ document.addEventListener('alpine:init', () => {
         title: 'E-commerce Conversion Optimization: Turning Browsers into Buyers',
         excerpt: 'Proven strategies we implemented to reduce cart abandonment by 40% and increase average order value for premium artisanal products.',
         url: '#',
-        featuredImageUrl: '/dukatools-manage-shops-stock-sales-system.jpg',
+        featuredImageUrl: '/profile/dukatools-manage-shops-stock-sales-system.jpg',
         readTime: '6 min read'
       },
       {
@@ -145,7 +145,7 @@ document.addEventListener('alpine:init', () => {
         title: 'Modern Debt Recovery: Balancing Technology with Compassion',
         excerpt: 'How digital platforms are transforming debt collection through automation, transparency, and debtor-friendly payment experiences.',
         url: '#',
-        featuredImageUrl: '/debt-recovery-company-website.jpg',
+        featuredImageUrl: '/profile/debt-recovery-company-website.jpg',
         readTime: '5 min read'
       },
       {
@@ -153,7 +153,7 @@ document.addEventListener('alpine:init', () => {
         title: 'Streamlining Content Operations: From Chaos to Consistent Delivery',
         excerpt: 'Case study on how we automated the entire content creation workflow, reducing administrative overhead by 70% while improving quality.',
         url: '#',
-        featuredImageUrl: '/order-management-system.jpg',
+        featuredImageUrl: '/profile/order-management-system.jpg',
         readTime: '4 min read'
       },
       {
@@ -161,7 +161,7 @@ document.addEventListener('alpine:init', () => {
         title: 'Web Performance Optimization: Why Every Millisecond Matters',
         excerpt: 'Technical deep dive into the performance optimization techniques that helped our clients achieve 95+ Google PageSpeed scores.',
         url: '#',
-        featuredImageUrl: '/dukatools-kenya-web-development-it-company-website.jpg',
+        featuredImageUrl: '/profile/dukatools-kenya-web-development-it-company-website.jpg',
         readTime: '7 min read'
       }
     ],
